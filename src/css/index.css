@@ -27,3 +27,14 @@ body {
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
+
+.center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 50vh;
+}
+
+.rojo {
+	color: darkred;
+}
