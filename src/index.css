@@ -1,9 +1,26 @@
-.margen {
-	margin: 100px;
+body {
+	margin: 0;
 }
+
+#menu {
+	background-color: #253a46;
+	padding: 26px;
+	font-size: 20px;
+}
+
+#menu a {
+	color: white;
+	padding-right: 50px;
+	text-decoration: none;
+}
+
 .tabla {
 	width: 100%;
 	text-align: left;
+}
+
+#margen {
+	margin: 100px;
 }
 
 .tabla td {
