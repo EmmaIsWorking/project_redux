@@ -38,3 +38,12 @@ body {
 .rojo {
 	color: darkred;
 }
+
+.pub_titulo {
+	border-top: 1px solid darkblue;
+	cursor: pointer;
+}
+
+li {
+	margin: 15px 0 15px 0;
+}
